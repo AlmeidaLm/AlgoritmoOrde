@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="bio.singa.javafx" type="repository">
+    <properties maven-id="bio.singa:singa-javafx:0.7.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/singa-javafx-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-11-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-11-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-11-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-chemistry-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-features-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/indriya-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unit-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/uom-lib-common-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-mathematics-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-core-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beam-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beam-func-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-sequence-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-structure-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-codec-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-serialization-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-msgpack-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msgpack-core-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-api-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreesvg-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/singa-javafx-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-11-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-chemistry-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-features-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/indriya-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unit-api-1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/uom-lib-common-1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-mathematics-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-core-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beam-core-1.2.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/beam-func-1.2.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-sequence-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/singa-structure-0.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-codec-1.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-serialization-1.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-msgpack-0.7.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msgpack-core-0.7.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.6.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.6.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.6.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmtf-api-1.0.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreesvg-3.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
